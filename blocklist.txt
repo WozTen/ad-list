@@ -1,3 +1,4 @@
 # Pi-hole blocklist managed by Pi-hole List Builder
 # Format: hosts file, one "0.0.0.0 <domain>" per line
 0.0.0.0 ironsource.mobi
+0.0.0.0 fingerprintjs.com
