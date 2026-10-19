@@ -640,3 +640,17 @@
 0.0.0.0 cmp.usercentrics.eu
 0.0.0.0 cmp.inmobi.com
 0.0.0.0 cmp.osano.com
+0.0.0.0 click.linksynergy.com
+0.0.0.0 www.awin1.com
+0.0.0.0 zenaps.com
+0.0.0.0 partnerstack.com
+0.0.0.0 api.partnerstack.com
+0.0.0.0 refersion.com
+0.0.0.0 t.pepperjamnetwork.com
+0.0.0.0 redirect.viglink.com
+0.0.0.0 clientstream.launchdarkly.com
+0.0.0.0 events.launchdarkly.com
+0.0.0.0 track.hubspot.com
+0.0.0.0 munchkin.marketo.net
+0.0.0.0 click.mailchimp.com
+0.0.0.0 widget.intercom.io
