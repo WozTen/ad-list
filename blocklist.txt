@@ -300,3 +300,14 @@
 0.0.0.0 d.la13-core1.sfdc-yfeipo.salesforceliveagent.com
 0.0.0.0 us4-dms.zoho.com
 0.0.0.0 bid.palespork.com
+0.0.0.0 1.stg.bid.palespork.com
+0.0.0.0 5.stg.bid.palespork.com
+0.0.0.0 6.stg.bid.palespork.com
+0.0.0.0 0.stg.bid.palespork.com
+0.0.0.0 3.stg.bid.palespork.com
+0.0.0.0 2.stg.bid.palespork.com
+0.0.0.0 7.stg.bid.palespork.com
+0.0.0.0 8.stg.bid.palespork.com
+0.0.0.0 4.stg.bid.palespork.com
+0.0.0.0 9.stg.bid.palespork.com
+0.0.0.0 stg.bid.palespork.com
