@@ -46,3 +46,14 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 ww16.ironsource.mobi
+0.0.0.0 media.net
+0.0.0.0 static.media.net
+0.0.0.0 wd.adcolony.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 cdn.indexexchange.com
+0.0.0.0 indexexchange.com
+0.0.0.0 www.indexexchange.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 pangleglobal.com
+0.0.0.0 www.pangleglobal.com
