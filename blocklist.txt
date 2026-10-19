@@ -584,3 +584,4 @@
 0.0.0.0 wzrkt.com
 0.0.0.0 yumenetworks.com
 0.0.0.0 liftoff.io
+0.0.0.0 pubmatic.com
