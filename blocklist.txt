@@ -327,3 +327,5 @@
 0.0.0.0 careers.hotjar.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 hotjar.com
+0.0.0.0 cdn.mouseflow.com
+0.0.0.0 mouseflow.com
