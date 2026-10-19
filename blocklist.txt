@@ -355,3 +355,7 @@
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 adfstat.yandex.ru
+0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
