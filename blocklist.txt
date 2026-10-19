@@ -596,3 +596,4 @@
 0.0.0.0 cdn.rudderlabs.com
 0.0.0.0 siftscience.com
 0.0.0.0 prod.uidapi.com
+0.0.0.0 bnc.lt
