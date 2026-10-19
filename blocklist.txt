@@ -336,3 +336,5 @@
 0.0.0.0 luckyorange.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 static.ads-twitter.com
