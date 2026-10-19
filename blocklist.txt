@@ -591,3 +591,5 @@
 0.0.0.0 metrics.adobe.com
 0.0.0.0 s.clarity.ms
 0.0.0.0 in.hotjar.com
+0.0.0.0 edge.fullstory.com
+0.0.0.0 rs.fullstory.com
