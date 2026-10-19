@@ -45,3 +45,4 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 redirector.googlevideo.com
+0.0.0.0 ww16.ironsource.mobi
