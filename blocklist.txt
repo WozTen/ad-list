@@ -384,3 +384,6 @@
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 samsungads.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 analytics-api.samsunghealthcn.com
