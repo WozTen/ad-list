@@ -603,3 +603,5 @@
 0.0.0.0 rum.browser-intake-datadoghq.com
 0.0.0.0 cdn.lr-ingest.com
 0.0.0.0 r.lr-ingest.com
+0.0.0.0 mineralt.io
+0.0.0.0 minero.cc
