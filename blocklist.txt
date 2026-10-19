@@ -595,3 +595,4 @@
 0.0.0.0 rs.fullstory.com
 0.0.0.0 cdn.rudderlabs.com
 0.0.0.0 siftscience.com
+0.0.0.0 prod.uidapi.com
