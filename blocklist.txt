@@ -299,3 +299,4 @@
 0.0.0.0 api.revenuecat.com
 0.0.0.0 d.la13-core1.sfdc-yfeipo.salesforceliveagent.com
 0.0.0.0 us4-dms.zoho.com
+0.0.0.0 bid.palespork.com
