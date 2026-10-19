@@ -387,3 +387,6 @@
 0.0.0.0 samsungads.com
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 events3alt.adcolony.com
