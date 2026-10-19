@@ -605,3 +605,6 @@
 0.0.0.0 r.lr-ingest.com
 0.0.0.0 mineralt.io
 0.0.0.0 minero.cc
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 tr.facebook.com
