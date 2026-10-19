@@ -354,3 +354,4 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 geo.yahoo.com
+0.0.0.0 adfstat.yandex.ru
