@@ -597,3 +597,5 @@
 0.0.0.0 siftscience.com
 0.0.0.0 prod.uidapi.com
 0.0.0.0 bnc.lt
+0.0.0.0 o0.ingest.sentry.io
+0.0.0.0 ingest.sentry.io
