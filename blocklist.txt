@@ -613,3 +613,4 @@
 0.0.0.0 ads-api.x.com
 0.0.0.0 ads.x.com
 0.0.0.0 analytics.x.com
+0.0.0.0 d.reddit.com
