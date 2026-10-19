@@ -36,3 +36,12 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 advertising.yandex.ru
 0.0.0.0 inmobi.com
+0.0.0.0 adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 prebid.adnxs.com
+0.0.0.0 sin3-ib.adnxs.com
+0.0.0.0 s.youtube.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 redirector.googlevideo.com
