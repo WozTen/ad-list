@@ -369,3 +369,7 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 adsfs.oppomobile.com
