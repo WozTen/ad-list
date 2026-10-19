@@ -83,3 +83,4 @@
 0.0.0.0 www.rudderstack.com
 0.0.0.0 snowplowanalytics.com
 0.0.0.0 api-js.mixpanel.com
+0.0.0.0 ts.amazon-adsystem.com
