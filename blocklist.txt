@@ -395,3 +395,4 @@
 0.0.0.0 log.byteoversea.com
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
