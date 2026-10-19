@@ -27,3 +27,6 @@
 0.0.0.0 aan.amazon.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
+0.0.0.0 bat.bing.com
+0.0.0.0 ads.microsoft.com
+0.0.0.0 c.bing.com
