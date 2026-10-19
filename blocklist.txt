@@ -623,3 +623,4 @@
 0.0.0.0 xp.apple.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 ads.huawei.com
+0.0.0.0 ngfts.lge.com
