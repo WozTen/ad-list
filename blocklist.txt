@@ -30,3 +30,8 @@
 0.0.0.0 bat.bing.com
 0.0.0.0 ads.microsoft.com
 0.0.0.0 c.bing.com
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 advertising.yandex.ru
