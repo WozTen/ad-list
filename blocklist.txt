@@ -359,3 +359,7 @@
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
