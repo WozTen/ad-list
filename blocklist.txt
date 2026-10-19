@@ -57,3 +57,12 @@
 0.0.0.0 cdn.taboola.com
 0.0.0.0 pangleglobal.com
 0.0.0.0 www.pangleglobal.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 advertising.yahoo.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 www.adtech.yahooinc.com
