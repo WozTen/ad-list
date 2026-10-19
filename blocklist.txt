@@ -35,3 +35,4 @@
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 advertising.yandex.ru
+0.0.0.0 inmobi.com
