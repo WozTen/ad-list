@@ -618,3 +618,7 @@
 0.0.0.0 qevents.quora.com
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 ads.vk.com
+0.0.0.0 ads.apple.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 xp.apple.com
+0.0.0.0 metrics.apple.com
