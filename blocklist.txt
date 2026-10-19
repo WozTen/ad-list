@@ -587,3 +587,5 @@
 0.0.0.0 pubmatic.com
 0.0.0.0 cdn.kargo.com
 0.0.0.0 sync.kargo.com
+0.0.0.0 analytics.adobe.io
+0.0.0.0 metrics.adobe.com
