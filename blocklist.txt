@@ -707,3 +707,5 @@
 0.0.0.0 csync-us.smartadserver.com
 0.0.0.0 dsp-cookie.adfarm1.adition.com
 0.0.0.0 go.mediagotechnology.com
+0.0.0.0 6.html-load.com
+0.0.0.0 5.html-load.com
