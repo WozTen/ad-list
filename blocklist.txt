@@ -700,3 +700,5 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 tremorhub.com
 0.0.0.0 ads.tremorhub.com
+0.0.0.0 web-cf-event-cell8005.ads.aps.amazon-adsystem.com
+0.0.0.0 aes.us-east.3px.axp.amazon-adsystem.com
