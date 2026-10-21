@@ -714,3 +714,8 @@
 0.0.0.0 8.html-load.com
 0.0.0.0 9.html-load.com
 0.0.0.0 2.html-load.com
+0.0.0.0 web.ads.aps.amazon-adsystem.com
+0.0.0.0 1.html-load.com
+0.0.0.0 4.html-load.com
+0.0.0.0 0.html-load.com
+0.0.0.0 0.v.html-load.com
