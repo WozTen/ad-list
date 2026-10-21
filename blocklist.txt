@@ -709,3 +709,7 @@
 0.0.0.0 go.mediagotechnology.com
 0.0.0.0 6.html-load.com
 0.0.0.0 5.html-load.com
+0.0.0.0 3.html-load.com
+0.0.0.0 7.html-load.com
+0.0.0.0 8.html-load.com
+0.0.0.0 9.html-load.com
